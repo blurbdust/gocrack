@@ -24,7 +24,7 @@ require (
 	github.com/shirou/gopsutil v0.0.0-20170510024726-b6da2bd76e7d
 	github.com/shirou/w32 v0.0.0-20160930032740-bb4de0191aa4 // indirect
 	github.com/stretchr/objx v0.2.0 // indirect
-	github.com/stretchr/testify v1.3.0
+	github.com/stretchr/testify v1.6.1
 	github.com/tankbusta/gzip v0.0.0-20171023233440-5ea045a82e8f
 	github.com/tchap/go-exchange v0.0.0-20141009085351-ebe3feb493da
 	github.com/tchap/go-patricia v2.2.6+incompatible // indirect
