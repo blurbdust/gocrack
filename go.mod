@@ -1,4 +1,4 @@
-module github.com/fireeye/gocrack
+module github.com/blurbdust/gocrack
 
 go 1.12
 
@@ -43,4 +43,4 @@ require (
 	gopkg.in/yaml.v2 v2.2.2
 )
 
-replace github.com/fireeye/gocrack => github.com/blurbdust/gocrack v1.1.1
+replace github.com/fireeye/gocrack => github.com/blurbdust/gocrack v1.1.2
