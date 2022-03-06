@@ -7,14 +7,14 @@ import (
 	"runtime"
 	"unsafe"
 
-	"github.com/fireeye/gocat"
-	"github.com/fireeye/gocat/hcargp"
-	"github.com/fireeye/gocat/restoreutil"
-	"github.com/fireeye/gocrack/opencl"
-	"github.com/fireeye/gocrack/server/rpc"
-	"github.com/fireeye/gocrack/server/storage"
-	"github.com/fireeye/gocrack/shared"
-	"github.com/fireeye/gocrack/worker"
+	"github.com/blurbdust/gocat"
+	"github.com/blurbdust/gocat/hcargp"
+	"github.com/blurbdust/gocat/restoreutil"
+	"github.com/blurbdust/gocrack/opencl"
+	"github.com/blurbdust/gocrack/server/rpc"
+	"github.com/blurbdust/gocrack/server/storage"
+	"github.com/blurbdust/gocrack/shared"
+	"github.com/blurbdust/gocrack/worker"
 
 	"github.com/rs/zerolog/log"
 )

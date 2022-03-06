@@ -4,8 +4,8 @@ import (
 	"io/ioutil"
 	"os"
 
-	"github.com/fireeye/gocat/restoreutil"
-	"github.com/fireeye/gocrack/server/rpc"
+	"github.com/blurbdust/gocat/restoreutil"
+	"github.com/blurbdust/gocrack/server/rpc"
 
 	"github.com/rs/zerolog/log"
 )

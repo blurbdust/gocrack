@@ -11,10 +11,10 @@ import (
 	"strings"
 	"syscall"
 
-	"github.com/fireeye/gocrack/shared"
-	"github.com/fireeye/gocrack/worker"
-	"github.com/fireeye/gocrack/worker/child"
-	"github.com/fireeye/gocrack/worker/parent"
+	"github.com/blurbdust/gocrack/shared"
+	"github.com/blurbdust/gocrack/worker"
+	"github.com/blurbdust/gocrack/worker/child"
+	"github.com/blurbdust/gocrack/worker/parent"
 
 	"github.com/rs/zerolog"
 	"github.com/rs/zerolog/log"

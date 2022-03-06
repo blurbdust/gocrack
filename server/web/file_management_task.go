@@ -10,8 +10,8 @@ import (
 	"strings"
 	"time"
 
-	"github.com/fireeye/gocat"
-	"github.com/fireeye/gocrack/server/storage"
+	"github.com/blurbdust/gocat"
+	"github.com/blurbdust/gocrack/server/storage"
 
 	"github.com/gin-gonic/gin"
 	uuid "github.com/satori/go.uuid"

@@ -9,7 +9,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/fireeye/gocrack/server/storage"
+	"github.com/blurbdust/gocrack/server/storage"
 
 	"github.com/rs/zerolog/log"
 	gomail "gopkg.in/gomail.v2"

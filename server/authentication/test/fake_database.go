@@ -3,7 +3,7 @@ package test
 import (
 	"errors"
 
-	"github.com/fireeye/gocrack/server/storage"
+	"github.com/blurbdust/gocrack/server/storage"
 )
 
 type FakeDatabase struct {

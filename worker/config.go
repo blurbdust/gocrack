@@ -4,7 +4,7 @@ import (
 	"errors"
 	"time"
 
-	"github.com/fireeye/gocrack/shared"
+	"github.com/blurbdust/gocrack/shared"
 )
 
 var (

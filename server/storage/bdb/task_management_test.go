@@ -6,8 +6,8 @@ import (
 	"testing"
 	"time"
 
-	"github.com/fireeye/gocrack/server/storage"
-	"github.com/fireeye/gocrack/shared"
+	"github.com/blurbdust/gocrack/server/storage"
+	"github.com/blurbdust/gocrack/shared"
 
 	uuid "github.com/satori/go.uuid"
 	"github.com/stretchr/testify/assert"

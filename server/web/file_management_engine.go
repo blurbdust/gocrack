@@ -9,8 +9,8 @@ import (
 	"strings"
 	"time"
 
-	"github.com/fireeye/gocrack/server/filemanager"
-	"github.com/fireeye/gocrack/server/storage"
+	"github.com/blurbdust/gocrack/server/filemanager"
+	"github.com/blurbdust/gocrack/server/storage"
 
 	"github.com/gin-gonic/gin"
 	uuid "github.com/satori/go.uuid"

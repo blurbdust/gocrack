@@ -7,8 +7,8 @@ import (
 	"strings"
 	"time"
 
-	"github.com/fireeye/gocrack/server/authentication"
-	"github.com/fireeye/gocrack/server/storage"
+	"github.com/blurbdust/gocrack/server/authentication"
+	"github.com/blurbdust/gocrack/server/storage"
 
 	"github.com/gin-gonic/gin"
 )
