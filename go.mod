@@ -42,3 +42,5 @@ require (
 	gopkg.in/square/go-jose.v2 v2.3.1
 	gopkg.in/yaml.v2 v2.2.2
 )
+
+replace github.com/fireeye/gocrack => github.com/blurbdust/gocrack v1.1.1
