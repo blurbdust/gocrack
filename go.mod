@@ -43,4 +43,4 @@ require (
 	gopkg.in/yaml.v2 v2.2.2
 )
 
-replace github.com/fireeye/gocat => github.com/blurbdust/gocat v0.0.0-20220306203347-e81b37941dc3
+replace github.com/fireeye/gocat => github.com/blurbdust/gocat v0.0.0-20220306230220-c98dc68a7ed3
